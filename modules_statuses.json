@@ -1,0 +1,8 @@
+{
+    "Apps": true,
+    "Projects": true,
+    "Roles": true,
+    "EmployeeAttendance": true,
+    "Accounts": true,
+    "Reports": true
+}
